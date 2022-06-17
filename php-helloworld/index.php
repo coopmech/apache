@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "<H1>Final Test Custom Image dengan Dockerfile base On Centos</H1>";
 ?>
